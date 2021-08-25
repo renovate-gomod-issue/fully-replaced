@@ -1,0 +1,4 @@
+github.com/renovate-gomod-issue/bar v1.0.0 h1:J1SmupbC0OOzL3e/SkenBXMMq2JDfJDTS+i4KJU8pKk=
+github.com/renovate-gomod-issue/bar v1.0.0/go.mod h1:vL2asBdlRgS762/pDOsNl3lqSULYhOD4IA51+s3oSfc=
+github.com/renovate-gomod-issue/foo v1.0.0 h1:lE/EYDdzqiV2UZN7aDTsUUXukp4xXqm5pbpMGK8c2lw=
+github.com/renovate-gomod-issue/foo v1.0.0/go.mod h1:mz6GUurMGO1tYFPmZhOCM8xVObfKCmnmxxAQFP7xdYE=
